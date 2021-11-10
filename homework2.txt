@@ -1,0 +1,11 @@
+0xb9316bbbae1cd21cd824de8651c72582261230724b1957abdeb466aa96a359c9 - transfering eth from TheDAO token
+0x4fc1580e7f66c58b7c26881cce0aab9c3509afe6e507527f30566fbf8039bcd0 - Looks like it's swapping coins from another
+0x552bc0322d78c5648c5efa21d2daa2d0f14901ad4b15531f1ab5bbe5674de34f - Look like this address was involved in a PolyNetwork exploit
+0x7a026bf79b36580bf7ef174711a3de823ff3c93c65304c3acc0323c77d62d0ed - Looks like it's sending a DAI Stable coin
+0x814e6a21c8eb34b62a05c1d0b14ee932873c62ef3c8575dc49bcf12004714eda - Sent 753k worth of ETH to 0xa87fb85a93ca072cd4e5f0d4f178bc831df8a00b
+
+0x1db3439a222c519ab44bb1144fc28167b4fa6ee6 - This guy is a whale
+0x000000000000000000000000000000000000dEaD - This address is used to burn tokens
+
+0x00000000219ab540356cbb839cbe05303d7705fa - This is used for staking for ETH 2.0. Value of $38,718,369,635.75
+0xbe0eb53f46cd790cd13851d5eff43d12404d33e8 - Binance Account for holding ETH
